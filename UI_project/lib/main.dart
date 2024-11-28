@@ -83,7 +83,7 @@ Sep 2018''',
                           ),
                         ),
                       ),
-                      // الصورة على اليمين
+                 
                       ClipRRect(
                         borderRadius: const BorderRadius.only(
                           topRight: Radius.circular(20),
@@ -95,7 +95,7 @@ Sep 2018''',
                             borderRadius: BorderRadius.circular(10),
                             child: Image.asset(
                               
-                              'lib/image/WhatsApp Image 2024-11-26 at 16.36.27_f9b79769.jpg', // نفس المسار
+                              'lib/image/WhatsApp Image 2024-11-26 at 16.36.27_f9b79769.jpg', 
                               width: 150,
                               height: double.infinity,
                               fit: BoxFit.cover,
