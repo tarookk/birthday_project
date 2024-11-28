@@ -34,7 +34,8 @@ class SoftwareEngineer extends StatelessWidget {
                   width: double.infinity,
                   child: Row(
                     children: [
-                      // النصوص على اليسار
+
+                      
                       Expanded(
                         child: Padding(
                           padding: const EdgeInsets.all(16.0),
